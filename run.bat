@@ -1,2 +1,0 @@
-py Moon.py
-pause
